@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48333530943",
+    "project_id": "ku33-6605c",
+    "storage_bucket": "ku33-6605c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48333530943:android:38dca3adfc8f5e8ac2958a",
+        "android_client_info": {
+          "package_name": "com.ku.kuvoucher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48333530943-ior1hgkt1h0mvda8hclivn7bklclirg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsdWRR4PhAHnn1pkVV4iNYz1JsioSmI_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48333530943-ior1hgkt1h0mvda8hclivn7bklclirg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
